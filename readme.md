@@ -21,6 +21,8 @@
 
 <hr>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sanaj123/SongPlayRoBot.git)
+
 #### Please give a ⭐ to this repository to appreciate my efforts and follow me so you that you get to know whenever I release a new Project!
 
 #### If you like my work and would like to hire/sponsor me [click here](https://t.me/+KvjFjOWicuZmOTQx).
